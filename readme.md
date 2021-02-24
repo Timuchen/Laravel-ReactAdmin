@@ -50,13 +50,13 @@ You can check out the [live preview](https://laravel-react-admin.herokuapp.com)
 If you get error messages, run composer update.
 
 Start creating demo data
-the php artisan db:seed 
+`the php artisan db:seed`
 
-Update
-your php artisan key keys:generate
+Update your keys:
+`php artisan key:generate`
 
 Create a symbolic link to the Laravel
-php artisan storage: link
+`php artisan storage: link`
 
 ## Using Docker
 
